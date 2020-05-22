@@ -29,7 +29,7 @@ For this project, I was interestested in using Stack Overflow data from 2019 to 
 3. Do people in different countries learn about software development in different ways?
 
 ## File Descriptions
-The full data exploration is contained in the notebook [Stackoverflow 2019 Survey.ipynb](https://github.com/viditjain25/Udacity-project-1/blob/master/Stackoverflow%202019%20Survey.ipynb). 
+The full data exploration is contained in the notebook [Stackoverflow 2019 Survey.ipynb](https://github.com/viditjain25/Udacity-project-/blob/master/Stackoverflow%202019%20Survey.ipynb). 
 
 This is carried out according to the CRISP-DM process and the data science process — gather, assess, clean, analyze, model, and visualize.
 
